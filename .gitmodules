@@ -1,0 +1,6 @@
+[submodule "density"]
+	path = density
+	url = https://github.com/tminka/density
+[submodule "lightspeed"]
+	path = lightspeed
+	url = https://github.com/tminka/lightspeed
